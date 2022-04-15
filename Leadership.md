@@ -10,7 +10,7 @@
 | Never Split the Difference: Negotiating As If Your Life Depended On It | Chris Voss | Negotiate like an FBI hostage negotiator. This is the book that inspired me to move towards Engineering Leadership. I view this as a book about 'hacking' people through language. | 
 | Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity | Kim Scott | Required reading. This is one of the most important books I've read as an Engineering Leader. I struggle a lot with being candid. This book lives rent free in my head, and its a constant reminder that I *must* be candid, even when its really really hard. |
 | Doing Justice: A Prosecutor's Thoughts on Crime, Punishment, and the Rule of Law | Preet Bharara | Leadership requires a sense of justice. This is a great study on the concept of justice from a former U.S. Prosecutor. |
-
+| Leaders Eat Last: Why Some Teams Pull Together and Others Don't | Simon Sinek | Required Reading. Leadership requires walking the talk. Put your team first. |
 
 ## Software Engineering Leadership
 
