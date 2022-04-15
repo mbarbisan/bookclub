@@ -5,7 +5,7 @@
 | Title | Author | Notes | 
 | ----- | ------ | ----- | 
 | The Premonition: A Pandemic Story | Michael Lewis | This a book about pandemics. First about how the US Government prepared for pandemics, and then about how it responded when the COVID pandemic struck. While this won't really tell you much about specific leadership techniques, I found the stories about individuals demonstrating leadership in the face of systemic failure to be quite inspiring. It also reinforced to me how important it is to push back against the 'logic' of the system, and to support the individuals we lead. |
-| Turn the Ship Around: A True Story of Turning Followers Into Leaders | L. David Marquet | Required reading. A story about trusting and enabling the people you lead. |
+| Turn the Ship Around: A True Story of Turning Followers Into Leaders | L. David Marquet | Required reading. A story about trusting and enabling the people you lead. One of the best bosses I had bought me this book. |
 | Start with Why: How Great Leaders Inspire Everyone to Take Action | Simon Sinek | How leaders should communicate. I fail at this often. | 
 | Never Split the Difference: Negotiating As If Your Life Depended On It | Chris Voss | Negotiate like an FBI hostage negotiator. This is the book that inspired me to move towards Engineering Leadership. I view this as a book about 'hacking' people through language. | 
 | Radical Candor: Be a Kick-Ass Boss Without Losing Your Humanity | Kim Scott | Required reading. This is one of the most important books I've read as an Engineering Leader. I struggle a lot with being candid. This book lives rent free in my head, and its a constant reminder that I *must* be candid, even when its really really hard. |
