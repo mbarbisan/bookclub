@@ -6,6 +6,7 @@
 | ----- | ------ | ----- | 
 | The Premonition: A Pandemic Story | Michael Lewis | This a book about pandemics. First about how the US Government prepared for pandemics, and then about how it responded when the COVID pandemic struck. While this won't really tell you much about specific leadership techniques, I found the stories about individuals demonstrating leadership in the face of systemic failure to be quite inspiring. It also reinforced to me how important it is to push back against the 'logic' of the system, and to support the individuals we lead. |
 | Turn the Ship Around ! A True Story of Turning Followers Into Leaders | L. David Marquet | Required reading. A story about trusting and enabling the people you lead. |
+| Start with Why: How Great Leaders Inspire Everyone to Take Action | Simon Sinek | How leaders should communicate. I fail at this often. | 
 
 ## Software Engineering Leadership
 
