@@ -10,6 +10,10 @@
 
 ### Books
 
+| Title | Author | Notes | 
+| ----- | ------ | ----- | 
+| An Elegant Puzzle: Systems of Engineering Management | Will Larson | I get the feeling that most of the content of this book is from blog posts from (Wil Laron's blog)[https://lethain.com/]. So if you're willing to dig in his archive, you can get most of the content of this book. Still, the content is fantastic. I found the book covered a lot of what we do as Engineering Leaders (managers, directors, etc.) and it sparked a lot of ideas for different approaches to what we do. Highly recommended! | 
+
 ### Podcasts
 | Title | Notes | 
 | ----- | ----- | 
